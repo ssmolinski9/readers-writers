@@ -1,5 +1,5 @@
 # readers-writers
-Simple solution of readers writers problem (POSIX) using conditional variables and mutex. Includes three solutions: optimal (without starvation), writers (with readers starvation) and readers (with writers starvation). 
+Simple solution of readers writers problem (POSIX) using conditional variables and mutex. Includes three solutions: optimal (without starvation), writers (with readers starvation) and readers (with writers starvation). Authors: Sebastian Smoliński (me), Michał Filończuk (github: Filonczuk) and Ernest Stachelski (github: ernestst).
 
 # Compiling
 
