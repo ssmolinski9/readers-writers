@@ -4,7 +4,9 @@ Simple solution of readers writers problem (POSIX) using conditional variables a
 # Compiling
 
 gcc -o writers writers.c --pthread 
+
 gcc -o readers readers.c --pthread
+
 gcc -o optimal optimal.c --pthread 
 
 # Usage
